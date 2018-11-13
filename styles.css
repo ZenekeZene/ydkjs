@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Helvetica, sans-serif;
+}
+
+main {
+    padding: 15px;
+}
+
+p,
+iframe {
+    margin-top: 15px;
+}
+
+iframe {
+    border: none;
+}
